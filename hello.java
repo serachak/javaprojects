@@ -7,6 +7,9 @@ class HelloWorld {
         mainsamanvi(args);
     }
     public static void mainsamanvi(String[] args) {
-        System.out.println("Hello, World! yahoo mainsamanvi");
+        System.out.println("Hello, World! i am samanvi");
+    }
+    public static void mainarka(String[] args) {
+        System.out.println("Hello, World! i am arka!");
     }
 }
