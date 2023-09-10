@@ -9,7 +9,7 @@ class HelloWorld {
         mainkailash(args);
     }
     public static void mainsamanvi(String[] args) {
-        System.out.println("Hello, World! i am samanvi");
+        System.out.println("Hello, World! i am samanvi!");
     }
     public static void mainarka(String[] args) {
         System.out.println("Hello, World! i am arka!");
